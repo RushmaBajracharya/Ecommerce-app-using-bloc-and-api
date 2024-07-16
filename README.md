@@ -1,16 +1,23 @@
-# ecommerce_app_api
 
-A new Flutter project.
+# Ecommerce App
 
-## Getting Started
+Technologies used: FLutter, Bloc 
+Api:https://fakestoreapi.com/products
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+- Product Detail
+- Add to cart
+- Add to wishlist
+## Screenshots
+
+![Screenshot 2024-07-16 103026](https://github.com/user-attachments/assets/2131a185-31a1-4822-8ce4-fc0f01b45a7f)
+
+![Screenshot 2024-07-16 103258](https://github.com/user-attachments/assets/a988e709-6ef7-454a-8f3e-236d06a41f3f)
+
+![Screenshot 2024-07-16 103221](https://github.com/user-attachments/assets/70cb6479-96c6-47dd-a995-02dbf76fbcb2)
+
+![Screenshot 2024-07-16 103313](https://github.com/user-attachments/assets/77eaee0b-a7e1-4ea1-9fdb-839e5cf45549)
